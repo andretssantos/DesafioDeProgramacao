@@ -26,7 +26,7 @@ public class Participante {
     public void setSobrenome(String sobrenome) {
         this.sobrenome = sobrenome;
     }
-
+    
     public String getNomeSala1() {
         return nomeSala1;
     }
@@ -58,7 +58,5 @@ public class Participante {
     public void setNomeCafe2(String nomeCafe2) {
         this.nomeCafe2 = nomeCafe2;
     }
-    
-    
     
 }
